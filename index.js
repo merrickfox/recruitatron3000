@@ -72,7 +72,7 @@ export const processWithAI = async (
   Deal Breakers:
   At least two previous roles as a frontend developer or engineering role
   Must not have lots of contract experience especially in their last or current role, this will be under "Company/Employment Type" if it says "contract"
-  Must live in the UK and not have experience in India
+  Must live in the UK, their present role should not be in a non UK country
   Requirements:
   Working closely with the team (design, backend) to create a seamless user experience.
   Implementing ideas into functioning interfaces using HTML, CSS, and JavaScript.
